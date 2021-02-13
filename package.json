@@ -1,0 +1,23 @@
+{
+  "name": "teemap-4color",
+  "version": "1.0.0",
+  "description": "Colouring Treemap Cells with 4 or More Colours",
+  "main": "treemap-4color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yan073/treemap-4color.git"
+  },
+  "keywords": [
+    "treemap",
+    "Four-color Theorem"
+  ],
+  "author": "boyan.au@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yan073/treemap-4color/issues"
+  },
+  "homepage": "https://github.com/yan073/treemap-4color#readme"
+}
