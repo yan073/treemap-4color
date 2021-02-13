@@ -1,6 +1,6 @@
 {
   "name": "teemap-4color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Colouring Treemap Cells with 4 or More Colours",
   "main": "dist/treemap-4color.min.js",
   "scripts": {
