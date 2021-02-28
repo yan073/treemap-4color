@@ -1,0 +1,76 @@
+html {
+    display: block;
+}
+
+:root{
+  --c_light_fill: #A9E3EF;
+  --c_medium_light_fill: #59C8FF;
+  --c_medium_dark_fill: #00aaff;
+  --c_dark_fill: #0090d8;
+  --c_label_border: #e7f6ff;
+
+  --cu_fill: #d5d5d5;
+  --cu_label_border: #5e5e5e;
+}
+
+img {
+  width: 300; 
+  height: 300;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+  #vis {
+    width: 100%;
+    height: 600px; 
+    margin: 5x 5x 5x 5x;}
+
+  .cell text {
+    cursor: move;
+    font: 10px sans-serif;
+    text-anchor: middle; }
+
+
+  
+  .leafc_1 text { 
+    fill: var(--c_label_border);
+  }
+  .leafc_2 text { 
+    fill: var(--c_label_border);
+  }      
+  .leafc_3 text { 
+    fill: var(--c_label_border);
+  }
+  .leafc_4 text { 
+    fill: var(--c_label_border);
+  }
+  .leafc_5 text { 
+    fill: var(--c_label_border);
+  }
+
+  .leafc_1 rect{ 
+    stroke: var(--c_label_border);
+    fill: var(--c_dark_fill);
+  }
+  
+  .leafc_2 rect { 
+    stroke: var(--c_label_border);
+    fill: var(--c_medium_light_fill);
+  }
+
+  .leafc_3 rect { 
+    stroke: var(--c_label_border);
+    fill: var(--c_medium_dark_fill);
+  }
+
+  .leafc_4 rect { 
+    stroke: var(--c_label_border);
+    fill: var(--c_light_fill);
+  }  
+
+  .leafc_5 rect { 
+    stroke: var(--cu_label_border);
+    fill: var(--cu_fill);
+  }
+  

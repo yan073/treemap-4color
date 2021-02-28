@@ -1,0 +1,28 @@
+{"name": "statistics", 
+    "children": [ 
+        {"name": "U.Clus.30", 
+            "children": [{"chembl": "CHEMBL1535", "name": "HYDROXYCHLOROQUINE", "size": 274}, 
+                {"chembl": "CHEMBL1326", "name": "CHLOROQUINE PHOSPHATE", "size": 114}, 
+                {"chembl": "CHEMBL76", "name": "CHLOROQUINE", "size": 112}, 
+                {"chembl": "CHEMBL250447", "name": "WHTVZRBIWZFKQO-AWEZNQCLSA-N", "size": 112}
+                ]}, 
+        {"name": "U.Clus.62", 
+            "children": [{"chembl": "CHEMBL2391146", "name": "ANGIOTENSIN", "size": 139, "pubchem": "15171724"}]}, 
+        {"name": "U.Clus.5", 
+            "children": [{"chembl": "CHEMBL529", "name": "AZITHROMYCIN", "size": 106}, 
+                {"chembl": "CHEMBL1741", "name": "CLARITHROMYCIN", "size": 5}]}, 
+        {"name": "U.Clus.6", 
+            "children": [{"chembl": "CHEMBL4065616", "name": "REMDESIVIR", "size": 102}]}, 
+        {"name": "U.Clus.39", 
+            "children": [{"chembl": "CHEMBL729", "name": "LOPINAVIR", "size": 98}, 
+                {"chembl": "CHEMBL1259059", "name": "SOFOSBUVIR", "size": 9}]}, 
+        {"name": "U.Clus.9", 
+            "children": [{"chembl": "CHEMBL163", "name": "RITONAVIR", "size": 98}, 
+                {"chembl": "CHEMBL2095208", "name": "COBICISTAT", "size": 8}]}, 
+        {"name": "U.Clus.14", 
+            "children": [{"chembl": "CHEMBL1234886", "name": "OXYGEN", "size": 77}, 
+                {"chembl": "CHEMBL2447938", "name": "OZONE", "size": 9}, 
+                {"chembl": "CHEMBL71595", "name": "HYDROGEN PEROXIDE", "size": 9}]} 
+            
+    ]
+}
