@@ -27,8 +27,8 @@ It is up to the html page to display desired colours for these colouring classes
 In the two examples in the example folder, the file ```chemical.css``` provides the colour definitions for the colouring classes ```leafc_1```, ```leafc_2```, ```leafc_3``` and ```leafc_4```.
 
 ### Examples
-The file ```simple.html``` in the example folder is a simple example utilise this library, without depending any other javascript library.
+The file ```simple.html``` in the example folder is a simple example utilise this library, without depending on any other javascript library.
 
-The file ```d3-treemap-example.html``` in the example folder is an example showing contruct a visualisation with d3 treemap library and colour the cells of the treemap with this library.
+The file ```d3-treemap-example.html``` in the example folder is an example creating a visualisation with d3 treemap library and colour the cells of that treemap with this library.
 
 Live example: https://yan073.github.io/visualtag/chemical.html
