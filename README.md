@@ -5,7 +5,10 @@
     <h1>treemap-4color</h1>
     <p>Colouring Treemap Cells with 4 or More Colours</p>
 </div>
+
+### API
 The only API exposed by this library is the function 
+
 ```Javascript
 setLeavesColor(...)
 ```
